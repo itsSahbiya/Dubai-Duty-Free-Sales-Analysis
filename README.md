@@ -1,7 +1,7 @@
 # Dubai-Duty-Free-Sales-Analysis
 Purpose
 This Power BI report provides an in-depth analysis of sales data for Dubai Duty Free. The report is designed to help stakeholders understand sales performance, customer behavior, and profitability across various categories, regions, and payment methods. It highlights trends, identifies top-performing products, and evaluates the impact of discounts and loyalty programs.
-______________________________________________________________________________________________________________________________________________________________________-
+____________________________________________________________________________________________________________________________________________
 Key Highlights
 1. Revenue and Profitability
 	•	Total Revenue: Displays the overall sales generated during the reporting period.
